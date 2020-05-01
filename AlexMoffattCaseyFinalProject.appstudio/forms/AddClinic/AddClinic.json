@@ -1,0 +1,92 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#ADD8E6",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddClinic",
+        "Elements",
+        "inptLat.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddClinic",
+        "Elements",
+        "inptLong.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddClinic",
+        "Elements",
+        "inpEnterClinic.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddClinic",
+        "Elements",
+        "submitBtn.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddClinic",
+        "Elements",
+        "cancelBtn.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddClinic",
+        "Elements",
+        "lblInfo.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": "auto",
+  "id": "AddClinic",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": "auto"
+}
